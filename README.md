@@ -58,8 +58,6 @@ Manufac-Agriculture-Analytics/
 ```
 
 ## Screenshot
-```bash![Screenshot_24-4-2024_174748_localhost](https://github.com/Prashant059/Manufac-Agriculture-Analytics/assets/113191332/efc43bfc-8460-41c6-87ce-6dc6f5c46895)
+![Screenshot_24-4-2024_174748_localhost](https://github.com/Prashant059/Manufac-Agriculture-Analytics/assets/113191332/d3a83f3c-7a12-4a0c-ba99-3dfe7b2a342f)
 
-
-```
 
