@@ -8,15 +8,58 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Installation
-Clone the repository:
+## Manufac-Agriculture-Analytics
+Analytics over the Indian Agriculture dataset (made available by National Data and Analytics Platform, NITI Aayog) and then display them as tables.
+
+## Installation
+
+1. Clone the repository:
+```bash
 git clone https://github.com/Prashant059/Manufac-Agriculture-Analytics.git
-Navigate to the project directory:
+```
+
+2. Navigate to the project directory:
+```bash
 cd Manufac-Agriculture-Analytics
-Install dependencies:
+```
+3.Use the package manager yarn to install yarn.
+```bash
 yarn install
-Usage
+```
+
+## Usage
 To run the project:
-yarn start
-This will start the development server and open the project in your default browser.
+```bash
+yarn run dev
+```
+
+## File Structure
+Manufac-Agriculture-Analytics
+```bash
+Manufac-Agriculture-Analytics/
+├── public
+├── src/
+│   ├── components/
+│   │   ├── AgricultureDataSetOne.jsx
+|   |   ├──  AgricultureDataSetTwo.jsx
+│   ├── Data/
+│   │   ├── Agriculture-DataSet.jsx
+│   ├── Utils
+│   │   ├── utils.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   └── index.css
+│   └── main.jsx
+├── postcss.config.cjs
+├── index.html
+├── package.json
+└── README.md
+└── vite.config.js
+```
+
+## Screenshot
+```bash![Screenshot_24-4-2024_174748_localhost](https://github.com/Prashant059/Manufac-Agriculture-Analytics/assets/113191332/efc43bfc-8460-41c6-87ce-6dc6f5c46895)
+
+
+```
 
